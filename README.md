@@ -1,43 +1,11 @@
-<div align="center">
-  
-  <h2 align="center">Foodie - Fast food website</h2>
+# Proyecto de Comida Rápida
 
-  LosPrimos es un sitio web de comida rápida totalmente sensible, <br />Responsive para todos los dispositivos, construir usando HTML, CSS y JavaScript.
+Este es un proyecto de comida rápida donde podrás encontrar una variedad de platillos deliciosos y rápidos de preparar. Nuestro menú incluye hamburguesas, papas fritas, hot dogs, ensaladas y mucho más.
 
-</div>
+## Cómo usar este proyecto
 
-<br />
+Para utilizar nuestro proyecto, simplemente haz clic en el botón "Ordenar Ahora" en nuestra página web. Desde allí, serás redirigido a WhatsApp para completar tu pedido y coordinar el envío.
 
-### Demo Screeshots
+## Redes Sociales
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Foodie** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/foodie.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/foodie.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Síguenos en [Instagram]([https://www.instagram.com](https://www.instagram.com/restaurantelosprimos23/)) para mantenerte al día con nuestras promociones y nuevos platillos. ¡No te pierdas nuestras historias de detrás de cámaras y las fotos de nuestros platos más populares!
