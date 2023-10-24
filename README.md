@@ -8,4 +8,4 @@ Para utilizar nuestro proyecto, simplemente haz clic en el botón "Ordenar Ahora
 
 ## Redes Sociales
 
-Síguenos en [Instagram]([https://www.instagram.com] para mantenerte al día con nuestras promociones y nuevos platillos. ¡No te pierdas nuestras historias de detrás de cámaras y las fotos de nuestros platos más populares! <a href="https://www.instagram.com/restaurantelosprimos23/" target="_Blank"> Instagram</a>
+Síguenos en  <a href="https://www.instagram.com/restaurantelosprimos23/" target="_Blank"> Instagram</a> para mantenerte al día con nuestras promociones y nuevos platillos. ¡No te pierdas nuestras historias de detrás de cámaras y las fotos de nuestros platos más populares!
