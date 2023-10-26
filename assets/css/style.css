@@ -1629,7 +1629,7 @@ textarea.input-field {
    * FOOD MENU
    */
 
-  .food-menu-list { grid-template-columns: repeat(3, 1fr); }
+  .food-menu-list { grid-template-columns: repeat(3, 1fr 1fr); }
 
   .food-menu-card { height: 100%; }
 
