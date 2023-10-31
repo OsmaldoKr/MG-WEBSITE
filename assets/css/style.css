@@ -212,6 +212,7 @@ body.active { overflow: hidden; }
   height: var(--height, 45px);
   padding-inline: var(--padding-inline, 35px);
   transition: var(--transition-1);
+  border-radius: 15px;
 }
 
 .btn-hover {
@@ -343,6 +344,7 @@ body.active { overflow: hidden; }
   padding-block: 20px;
   border-block-end: 1px solid var(--champagne-pink_20);
   z-index: 4;
+  
 }
 
 .header.active {
@@ -429,6 +431,7 @@ body.active { overflow: hidden; }
   overflow: hidden;
   visibility: hidden;
   transition: var(--transition-1);
+  border-radius: 20px;
 }
 
 .navbar.active {
