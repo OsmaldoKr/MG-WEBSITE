@@ -88,9 +88,6 @@
 }
 
 
-
-
-
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
@@ -912,7 +909,7 @@ body.active { overflow: hidden; }
 }
 
 .banner-card .banner-img {
-  background-color: var(--gainsboro);
+  background-color: rgba(0, 0, 0, 0.742);
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -920,7 +917,9 @@ body.active { overflow: hidden; }
   transition: var(--transition-2);
 }
 
-.banner-card:is(:hover, :focus-within) .banner-img { transform: scale(1.05); }
+.banner-card:is(:hover, :focus-within) .banner-img { 
+  transform: scale(1.05); 
+}
 
 .banner-item-content {
   position: absolute;
